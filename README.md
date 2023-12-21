@@ -18,3 +18,17 @@ How to use?
 Optional
 
 if you want to diff to different versions of the game's music you can use File Compare\compare.ps1
+
+
+
+
+
+
+
+
+
+
+
+Source Code? in your dream
+
+everything is perpared,just use it
